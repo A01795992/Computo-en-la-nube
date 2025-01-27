@@ -1,0 +1,3 @@
+﻿  SumaArreglosParalela.cpp
+D:\Osiris\Documents\Tec\Cómputo en la nube\proyectosOMP\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(34,29): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  SumaArreglosParalela.vcxproj -> D:\Osiris\Documents\Tec\Cómputo en la nube\proyectosOMP\SumaArreglosParalela\x64\Debug\SumaArreglosParalela.exe
